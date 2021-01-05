@@ -22,6 +22,7 @@ function App() {
 
       {/* <FormInput /> */}
       <h1>fetch data from API</h1>
+      <h2>hello world</h2>
       <hr />
       <Posts />
     </div>
